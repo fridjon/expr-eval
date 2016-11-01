@@ -1248,7 +1248,7 @@ Parser.prototype = {
   }
 };
 
-export default {
-  Parser: Parser,
-  Expression: Expression
-};
+// export default {
+//  Parser: Parser,
+//  Expression: Expression
+//};
